@@ -1,5 +1,5 @@
-#makeCacheMatrix returns a list
-#composed of functions for getting and setting
+#makeCacheMatrix takes a matrix as a parameter and
+#returns a list composed of functions for getting and setting
 #the matrix 'x' and its inverse. These functions are
 #defined within the environment both 'x' and
 #'inverse' are declared, so they are still able to
